@@ -2,11 +2,7 @@
 Raspberry Pi to Arduino Shield Bridge.
 
 
-[![RPi-UNO-HAT](https://raw.github.com/watterott/RPi-UNO-HAT/master/pcb/RPi-UNO-HAT_v11.jpg)](http://www.watterott.com/en/RPi-UNO-HAT)
-
-
-## Shop
-* [RPi-UNO-HAT for Raspberry Pi Model A and B](http://www.watterott.com/en/RPi-UNO-HAT)
+[![RPi-UNO-HAT](https://raw.github.com/watterott/RPi-UNO-HAT/master/pcb/RPi-UNO-HAT_v10.jpg)](http://www.watterott.com/en/RPi-UNO-HAT)
 
 
 ## Features
