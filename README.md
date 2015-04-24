@@ -1,2 +1,25 @@
 # RPi-UNO-HAT
-Arduino Uno on Raspberry Pi
+Raspberry Pi to Arduino Shield Bridge.
+
+
+[![RPi-UNO-HAT](https://raw.github.com/watterott/RPi-UNO-HAT/master/pcb/RPi-UNO-HAT_v11.jpg)](http://www.watterott.com/en/RPi-UNO-HAT)
+
+
+## Shop
+* [RPi-UNO-HAT for Raspberry Pi Model A and B](http://www.watterott.com/en/RPi-UNO-HAT)
+
+
+## Features
+* Atmel AVR ATmega328 with Arduino Bootloader (optiboot)
+* Raspberry Pi connected via I2C and UART (to the AVR through level-shifter)
+* AVR-Programming via Raspberry Pi possible
+* Shield connectors with Arduino Uno R3 layout
+* Additional 3.3V LDO voltage regulator for Arduino Shields
+* Optional 7-36V power input for Raspberry Pi and RPi-UNO-HAT (Murata OKI-78SR-5)
+
+
+## Hardware and Software
+* [Schematics + Layout](https://github.com/watterott/RPi-UNO-HAT/tree/master/pcb)
+* [How to install the Arduino IDE on Raspberry Pi](https://github.com/watterott/RPi-UNO-HAT/blob/master/docu/Arduino.md)
+* [How to control the RPi-UNO-HAT with Firmata](https://github.com/watterott/RPi-UNO-HAT/blob/master/docu/Firmata.md)
+* [How to communicate with the RPi-UNO-HAT via I2C](https://github.com/watterott/RPi-UNO-HAT/blob/master/docu/I2CTest.md)
