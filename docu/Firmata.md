@@ -55,7 +55,7 @@ The RPi-UNO-HAT can be connected via USB or UART:
     $ sudo pip install pyfirmata
     ```
 
-* Create a test script named (https://github.com/watterott/RPi-UNO-HAT/raw/master/docu/Firmata.py):
+* Create a test script named [Firmata.py](https://github.com/watterott/RPi-UNO-HAT/raw/master/docu/Firmata.py):
 
     ```
     $ nano Firmata.py
@@ -93,7 +93,7 @@ The RPi-UNO-HAT can be connected via USB or UART:
     If the *node* package is not found then add Adafruit to the package repository:
     ```curl -sLS https://apt.adafruit.com/add | sudo bash```
 
-* Create a test script named [Firmata.py](https://github.com/watterott/RPi-UNO-HAT/raw/master/docu/Firmata.js):
+* Create a test script named [Firmata.js](https://github.com/watterott/RPi-UNO-HAT/raw/master/docu/Firmata.js):
 
     ```
     $ nano Firmata.js

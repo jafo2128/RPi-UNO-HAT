@@ -9,7 +9,7 @@ For using the Arduino IDE to program the AVR microcontroller on the RPi-UNO-HAT 
     $ sudo apt-get install arduino
     ```
 
-* Install [Auto-Reset for AVRdude](https://github.com/CisecoPlc/avrdude-rpi) on GPIO18 (Pin 12):
+* Install [Auto-Reset for AVRdude](https://github.com/CisecoPlc/avrdude-rpi) on GPIO4 (Pin 7):
 
     ```
     $ wget https://raw.github.com/watterott/RPi-UNO-HAT/master/docu/autoreset
