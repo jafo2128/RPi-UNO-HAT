@@ -8,6 +8,16 @@ There is a tutorial for Firmata and Raspberry Pi in [The MagPi Issue 7](http://w
 
 ## Prepare Arduino / RPi-UNO-HAT
 
+* **Sketch upload via hardware serial port of the Raspberry Pi**
+  * The jumpers **TX**, **RX** and **RES** have to be closed, which is also the default state of these jumpers.
+  * [Install the Arduino IDE on the Raspberry Pi](https://github.com/watterott/RPi-UNO-HAT/blob/master/docu/Arduino.md).
+  * Start the Arduino IDE.
+  * Select **Arduino Uno** under **Tools->Board**.
+  * Choose the hardware serial port **/dev/ttyAMA0** under **Tools->Serial Port**.
+  * Open the Firmata Sketch under **File->Examples->Firmata->StandardFirmata**.
+  * Start build and upload: **File->Upload**.
+  * Now exit the Arduino IDE.
+
 * **Sketch upload with USB FTDI adapter**
   * Download and install the [Arduino IDE](http://arduino.cc/en/Main/Software) on your computer or [Raspberry Pi](https://github.com/watterott/RPi-UNO-HAT/blob/master/docu/Arduino.md).
   * Close the **VCC Jumper** next to the FTDI connector to power the RPi-UNO-HAT from the FTDI adapter or put it on a Raspberry Pi for powering. 
@@ -15,16 +25,6 @@ There is a tutorial for Firmata and Raspberry Pi in [The MagPi Issue 7](http://w
   * Start the Arduino IDE.
   * Select **Arduino Uno** under **Tools->Board**.
   * Choose the serial port from the FTDI adapter under **Tools->Serial Port**.
-  * Open the Firmata Sketch under **File->Examples->Firmata->StandardFirmata**.
-  * Start build and upload: **File->Upload**.
-  * Now exit the Arduino IDE.
-
-* **Sketch upload via hardware serial port of the Raspberry Pi**
-  * The jumpers **TX**, **RX** and **RES** have to be closed, which is also the default state of these jumpers.
-  * [Install the Arduino IDE on the Raspberry Pi](https://github.com/watterott/RPi-UNO-HAT/blob/master/docu/Arduino.md).
-  * Start the Arduino IDE.
-  * Select **Arduino Uno** under **Tools->Board**.
-  * Choose the hardware serial port **/dev/ttyAMA0** under **Tools->Serial Port**.
   * Open the Firmata Sketch under **File->Examples->Firmata->StandardFirmata**.
   * Start build and upload: **File->Upload**.
   * Now exit the Arduino IDE.
