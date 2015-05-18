@@ -6,7 +6,7 @@ So you can control an Arduino with a Raspberry Pi using Firmata.
 There is a tutorial for Firmata and Raspberry Pi in [The MagPi Issue 7](http://www.themagpi.com/en/issue/7) and here is also a small guide.
 
 
-## Prepare Arduino / RPi-UNO-HAT
+## Prepare RPi-UNO-HAT
 
 * **Sketch upload via hardware serial port of the Raspberry Pi**
   * The jumpers **TX**, **RX** and **RES** have to be closed, which is also the default state of these jumpers.

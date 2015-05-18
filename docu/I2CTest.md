@@ -2,10 +2,10 @@
 
 A small guide to show the communication via I2C between the Arduino (RPi-UNO-HAT) and Raspberry Pi.
 
-The I2C pins of the Raspberry Pi are connected to the AVR and the Arduino Shield connectors (SDA+SCL) on the RPi-UNO-HAT. 
+The I2C pins of the Raspberry Pi are connected to the AVR and the Shield connectors (SDA+SCL) on the RPi-UNO-HAT. 
 
 
-## Prepare Arduino / RPi-UNO-HAT
+## Prepare RPi-UNO-HAT
 
 Upload the following [Sketch](https://github.com/watterott/RPi-UNO-HAT/raw/master/docu/I2CTest.ino):
 ```

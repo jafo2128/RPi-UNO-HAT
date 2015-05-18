@@ -5,12 +5,16 @@ Raspberry Pi to Arduino Shield Bridge.
 [![RPi-UNO-HAT](https://raw.github.com/watterott/RPi-UNO-HAT/master/pcb/RPi-UNO-HAT_v10.jpg)](http://www.watterott.com/en/RPi-UNO-HAT)
 
 
+## Shop
+* [RPi-UNO-HAT](http://www.watterott.com/en/RPi-UNO-HAT)
+
+
 ## Features
 * Atmel AVR ATmega328 with Arduino Bootloader (optiboot)
 * Raspberry Pi connected via I2C and UART (to the AVR through level-shifter)
 * AVR-Programming via Raspberry Pi possible
-* Shield connectors with Arduino Uno R3 layout
-* Additional 3.3V LDO voltage regulator for Arduino Shields
+* Shield connectors with Uno R3 layout
+* Additional 3.3V LDO voltage regulator for Shields
 * Optional 7-36V power input for Raspberry Pi and RPi-UNO-HAT (Murata OKI-78SR-5)
 
 
