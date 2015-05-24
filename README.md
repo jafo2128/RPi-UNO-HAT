@@ -23,3 +23,4 @@ Raspberry Pi to Arduino Shield Bridge.
 * [How to install the Arduino IDE on Raspberry Pi](https://github.com/watterott/RPi-UNO-HAT/blob/master/docu/Arduino.md)
 * [How to control the RPi-UNO-HAT with Firmata](https://github.com/watterott/RPi-UNO-HAT/blob/master/docu/Firmata.md)
 * [How to communicate with the RPi-UNO-HAT via I2C](https://github.com/watterott/RPi-UNO-HAT/blob/master/docu/I2CTest.md)
+* [How to flash/update EEPROM](https://github.com/watterott/RPi-UNO-HAT/blob/master/docu/EEPROM.md)
