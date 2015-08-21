@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.2.0">
+<eagle version="7.3.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -159,6 +159,9 @@
 <text x="14.2875" y="13.335" size="1.016" layer="21" font="vector" ratio="13" align="center">A5-SCL</text>
 <text x="23.1775" y="15.24" size="1.016" layer="21" font="vector" ratio="13" align="center">IO2-SDA</text>
 <text x="23.1775" y="13.335" size="1.016" layer="21" font="vector" ratio="13" align="center">IO3-SCL</text>
+<text x="6.985" y="33.655" size="1.016" layer="21" font="vector" ratio="13" align="center">5V</text>
+<text x="6.985" y="31.115" size="1.016" layer="21" font="vector" ratio="13" align="center">GND</text>
+<text x="6.985" y="28.575" size="1.016" layer="21" font="vector" ratio="13" align="center">VIN</text>
 </plain>
 <libraries>
 <library name="we-board">

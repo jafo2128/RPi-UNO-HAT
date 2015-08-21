@@ -2,7 +2,7 @@
 Raspberry Pi to Arduino/Genuino Shield Bridge.
 
 
-[![RPi-UNO-HAT](https://raw.github.com/watterott/RPi-UNO-HAT/master/pcb/RPi-UNO-HAT_v10.jpg)](http://www.watterott.com/en/RPi-UNO-HAT)
+[![RPi-UNO-HAT](https://github.com/watterott/RPi-UNO-HAT/raw/master/hardware/RPi-UNO-HAT_v10.jpg)](http://www.watterott.com/en/RPi-UNO-HAT)
 
 
 ## Shop
@@ -19,7 +19,7 @@ Raspberry Pi to Arduino/Genuino Shield Bridge.
 
 
 ## Hardware and Software
-* [Schematics + Layout](https://github.com/watterott/RPi-UNO-HAT/tree/master/pcb)
+* [Schematics + Layout](https://github.com/watterott/RPi-UNO-HAT/tree/master/hardware)
 * [How to install the Arduino IDE on Raspberry Pi](https://github.com/watterott/RPi-UNO-HAT/blob/master/docu/Arduino.md)
 * [How to control the RPi-UNO-HAT with Firmata](https://github.com/watterott/RPi-UNO-HAT/blob/master/docu/Firmata.md)
 * [How to communicate with the RPi-UNO-HAT via I2C](https://github.com/watterott/RPi-UNO-HAT/blob/master/docu/I2CTest.md)
