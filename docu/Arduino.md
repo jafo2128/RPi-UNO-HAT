@@ -12,8 +12,8 @@ For using the Arduino IDE to program the AVR microcontroller on the RPi-UNO-HAT 
 * Install [Auto-Reset for AVRdude](https://github.com/CisecoPlc/avrdude-rpi) on GPIO4 (Pin 7):
 
     ```
-    $ wget https://raw.github.com/watterott/RPi-UNO-HAT/master/docu/autoreset
-    $ wget https://raw.github.com/watterott/RPi-UNO-HAT/master/docu/avrdude-autoreset
+    $ wget https://github.com/watterott/RPi-UNO-HAT/raw/master/docu/autoreset
+    $ wget https://github.com/watterott/RPi-UNO-HAT/raw/master/docu/avrdude-autoreset
     $ chmod +x autoreset
     $ chmod +x avrdude-autoreset
     $ sudo mv autoreset /usr/bin
