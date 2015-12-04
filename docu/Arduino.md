@@ -71,6 +71,13 @@ For using the Arduino IDE to program the AVR microcontroller on the RPi-UNO-HAT 
     KERNEL=="ttyAMA0", SYMLINK+="ttyS0",GROUP="dialout",MODE:=0666
     ```
 
+    Another problem can be if the user, that runs the Arduino IDE, is not a member of the dialout group ([further infos](http://elinux.org/RPi_Serial_Connection)).
+    To add a user to the group run:
+
+    ```
+    $ sudo usermod -a -G dialout USERNAME
+    ```
+
 * Open the Blink Sketch under **File->Examples->01.Basics->Blink**.
 
 * Start build and upload: **File->Upload**.
